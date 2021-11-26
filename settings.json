@@ -1,0 +1,9 @@
+{
+    "vim.easymotion": true ,
+    "vim.useSystemClipboard": true ,
+    "editor.lineNumbers": "relative",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "vim.handleKeys": {
+        "<C-f>": false,
+    }
+}
